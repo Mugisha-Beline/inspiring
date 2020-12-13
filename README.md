@@ -2,7 +2,7 @@
 
 ### Website
 
-The website is available [here](https://mugisha-beline.github.io/portfolio-web/ "webiste")
+The website is available [here](https://mugisha-beline.github.io/inspiring/ "webiste")
 
 ## Description
 
