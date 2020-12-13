@@ -1,0 +1,133 @@
+@media only screen and (min-width:480px){
+    a:link{
+      display: inline-block;
+      margin-right: 100px;
+      text-decoration: underline;
+      text-transform: uppercase; 
+    }
+        a:hover{
+          color:pink;
+        }
+        #home{
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          text-shadow: 5px 5px 2px pink;
+        }
+       .quotes{
+        position:absolute;
+         left:500px;
+         top:15%;
+         background:pink;
+         padding: 10px;
+       }
+       .footer{
+         text-align: center;
+         color:purple;
+         position: absolute;
+         top:200%;
+       }
+       .edu{
+        position:absolute;
+         left:600px;
+         top:20%;
+         background:pink;
+         padding: 10px; 
+       }
+       .img{
+         position: absolute;
+         top:20%;
+       }
+       body{
+        background-color:wheat;
+       }
+       #quo{
+         border: 50%;
+         padding: 20px;
+         text-align: justify;
+         text-transform: capitalize;
+         text-decoration: purple;
+         text-align: end;
+       }
+       .contact{
+        border-collapse:separate;
+        border-spacing:50px;
+      font-style: oblique;
+      font-size: large;
+      color:blue;
+       }
+       #wel{
+         position: absolute;
+         top:60%;
+         text-align: center;
+         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         color: crimson;
+         text-transform: capitalize;
+         text-shadow:5px 5px 5px brown ;
+       }
+       .mot{
+        position:absolute;
+         left:600px;
+         top:15%;
+         background:pink;
+         padding: 10px; 
+       }
+        .spechee1{
+        position:absolute;
+        left:600px;
+        top:50%;
+        background:blueviolet;
+        padding: 10px; 
+       }
+      .spechee2{
+        position:absolute;
+        left:600px;
+        top:80%;
+        background:blueviolet;
+        padding: 10px;   
+       }
+       .me{
+         position: absolute;
+         top:15%;
+       }
+       #none{
+         text-align: center;
+         text-transform: capitalize;
+         text-decoration: chocolate;
+         font-weight: 300;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+       }
+       #ig{
+         position:absolute;
+         left:78%;
+         top:23%;
+       }
+       #links{
+        position:absolute;
+        left:500px;
+        top:55%;
+        background:pink;
+        padding: 10px;
+       }
+       #one{
+        position:absolute;
+        left:500px;
+        top:97%;
+        background-color:pink;
+        padding: 10px;
+        display:flex;
+        border-radius: 50% solid black;
+        color:red
+       }
+       #arrow{
+        position:absolute;
+        left:500px;
+        top:80%;
+        padding: 10px;
+       }
+       .audio{
+        position:absolute;
+        left:600px;
+        top:90%;
+        background:pink;
+        padding: 10px;
+       }
+    }
